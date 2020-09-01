@@ -1,24 +1,13 @@
-# README
+# m-links
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 概要
 
-Things you may want to cover:
+新発売される楽曲についての情報共有や、思い出に残っている楽曲について語り合えるアプリケーションです。
 
-* Ruby version
+## 目指した課題解決
 
-* System dependencies
+思い出に残っている曲や、好きなアーティストは人によって様々であり、職場や学校などの環境では好きな音楽について語り合えることは少ないと思います。
+このアプリによって同じ音楽の趣味の人と繋がったり、様々な人達と語り合える環境を実現できます。
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+イメージとしては、Youtube のミュージックビデオのコメント欄でやりとりされているようなものになります。
+このアプリでは楽曲について語り合うことに特化し、そこから人との繋がりが生まれるようなアプリです。
